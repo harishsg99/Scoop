@@ -1,5 +1,5 @@
 # Scoop-lang
-## general purpose programming language built using go language 
+## A security focused proggraming language 
 
 # Proposed features of scooplang 
 1. variable bindings
