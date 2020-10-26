@@ -2,15 +2,15 @@
 ## general purpose programming language built using go language 
 
 # Proposed features of scooplang 
-• variable bindings
-• integers and booleans
-• arithmetic expressions
-• built-in functions
-• first-class and higher-order functions
-• closures
-• a string data structure
-• an array data structure
-• a hash data structure
+1. variable bindings
+2. integers and booleans
+3. arithmetic expressions
+4. built-in functions
+5. first-class and higher-order functions
+6. closures
+7. a string data structure
+8. an array data structure
+9. a hash data structure
 
 # Currently implemented 
 1. extendable lexer
