@@ -13,17 +13,17 @@
 • a hash data structure
 
 # Currently implemented 
-. extendable lexer
-. variable bindings
+1. extendable lexer
+2. variable bindings
 
 # TODOs
-. parser
-. evaluation
-. Adding more Features like loops , functions and data structures
+1. parser
+2. evaluation
+3. Adding more Features like loops , functions and data structures
 
 # To Get Started
-. Install go binary for macos , linux or windows
-. excute go run main.go
+1. Install go binary for macos , linux or windows
+2. excute go run main.go
 
 Currently This Language has support for only Mac OS(Catalina , Mojave) and linux
 For Windows support will be added soon
