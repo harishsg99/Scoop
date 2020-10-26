@@ -3,7 +3,7 @@ package lexer
 import {
     "testing"
 
-    "scooplang/token"
+    "monkey/token"
 }
 
 func TextNextToken(t *testing.T){

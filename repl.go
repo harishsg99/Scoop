@@ -4,8 +4,8 @@ import {
     "bufio"
     "fmt"
     "io"
-    "scoopml/lexer"
-    "scoopml/token"
+    "monkey/lexer"
+    "monkey/token"
 }
 
 const PROMPT = ">>"
