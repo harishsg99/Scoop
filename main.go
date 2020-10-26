@@ -3,7 +3,7 @@ import (
 "fmt"
 "os"
 "os/user"
-"monkey/repl"
+"scoopml/repl"
 )
 func main() {
 user, err := user.Current()
