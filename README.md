@@ -12,6 +12,7 @@
 8. an array data structure
 9. a hash data structure
 10. VM for Scoop lang
+11. IDE for Scoop lang
 
 # Currently implemented 
 1. extendable lexer
@@ -21,6 +22,8 @@
 1. parser
 2. evaluation
 3. Adding more Features like loops , functions and data structures
+4. VM for Scoop lang
+5. IDE for Scoop lang 
 
 # To Get Started
 1. Install go binary for macos , linux or windows
