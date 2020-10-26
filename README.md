@@ -11,6 +11,7 @@
 7. a string data structure
 8. an array data structure
 9. a hash data structure
+10. VM for Scoop lang
 
 # Currently implemented 
 1. extendable lexer
