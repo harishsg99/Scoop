@@ -1,5 +1,5 @@
 # Scoop-lang
-## A security focused proggraming language 
+## A security focused programing language 
 
 # Proposed features of scooplang 
 1. variable bindings
