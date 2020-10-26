@@ -1,5 +1,5 @@
 package ast
-import "monkey/token"
+import "scooplang/token"
 
 type Node interface{
     Node
