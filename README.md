@@ -17,13 +17,13 @@
 # Currently implemented 
 1. extendable lexer
 2. variable bindings
+3. extentable parser
 
 # TODOs
-1. parser
-2. evaluation
-3. Adding more Features like loops , functions and data structures
-4. VM for Scoop lang
-5. IDE for Scoop lang 
+1. evaluation
+2. Adding more Features like loops , functions and data structures
+3. VM for Scoop lang
+4. IDE for Scoop lang 
 
 # To Get Started
 1. Install go binary for macos , linux or windows
