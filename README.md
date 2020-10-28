@@ -30,12 +30,15 @@
 2. excute go run main.go
 
 # Example code of ScoopLang
-'''
-let fibonacci = fn(x) { 
+```
+let fibonacci = fn(x) 
+{ 
 if (x == 0) {
-return 0; 
-} else {
-if (x == 1) {
+return 0;
+} else
+{
+if (x == 1) 
+{
 return 1;
 } 
 else {
@@ -44,7 +47,7 @@ fibonacci(x - 1) + fibonacci(x - 2);
 }
 }; 
 fibonacci(15);
-'''
+```
 
 Currently This Language has support for only Mac OS(Catalina , Mojave) and linux
 
