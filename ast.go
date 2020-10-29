@@ -197,3 +197,8 @@ out.WriteString(ce.Function.String())
  out.WriteString(")")
 return out.String() 
 }
+type FunctionLiteral struct {
+Token token.Token
+Parameters []*Identifier
+Body *BlockStatement
+}
