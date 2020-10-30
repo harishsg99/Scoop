@@ -77,7 +77,7 @@ You can use `if` and `else` keywords for conditional expressions. The last value
 
 ### Functions and closures
 
-You can define functions using `fn` keyword. All functions are closures in Monkey and you must use `let` along with `fn` to bind a closure to a variable. Closures enclose an environment where they are defined, and are evaluated in *the* environment when called. The last value in an executed function body are returned as a return value.
+You can define functions using `fn` keyword. All functions are closures in Scooplang and you must use `let` along with `fn` to bind a closure to a variable. Closures enclose an environment where they are defined, and are evaluated in *the* environment when called. The last value in an executed function body are returned as a return value.
 
 ```sh
 >> let multiply = fn(x, y) { x * y };
